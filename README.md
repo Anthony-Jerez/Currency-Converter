@@ -138,7 +138,7 @@ Notes: At the end of this sprint, users have the option to quickly search throug
 - [x] Users have the option to choose any currency from the list of 161 supported currency codes provided by the Exchange Rates API
 - [x] Currency codes are presented in a table view, complemented by a search bar to facilitate quick navigation and searches
 - [x] Users can save/delete their favorite conversion pairs in their watchlist, where these pairs are regularly updated to reflect real-time FX rates and the original base amount.
-- [x] Users have the option to select a base currency and up to eight target currencies, allowing them to swiftly view real-time FX rates through a line chart.
+- [x] Users have the option to select a base currency and up to eight target currencies, allowing them to swiftly view real-time FX rates through an interactive line chart.
 - [x] Alert messages are displayed to correct and guide users when they don't adhere to provided instructions
 #### Final Update Video:
 <div>
