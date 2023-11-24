@@ -79,7 +79,7 @@ Currency Converter is a fully functional iOS app that allows users to convert fr
 * => Exchange Rates
 
 ## Wireframes
-<img src="https://github.com/Anthony-Jerez/ios101-AssignmentSubmission/assets/87133474/2955270a-3559-4532-a40b-8fc9026eb8307" width=600>
+<img src="https://github.com/Anthony-Jerez/Currency-Converter/assets/87133474/316c2c18-b889-48e8-95af-292a5ed93f1b" width=600>
 
 ## Schema
 
