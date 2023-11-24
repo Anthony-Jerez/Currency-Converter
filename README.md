@@ -11,16 +11,16 @@
 
 ### Description
 
-Currency converter is a fully functional iOS app that allows users to convert from a base currency to a target currency using real-time exchange rates. Favorite converison pairs can be added to a watchlist, where users can stay up-to-date with the changes in the FX rates and its impact on their favorited conversion pairs. Users are also allowed to select a base currency and target currencies to analyze real-time FX rates via an interactive graph. 
+Currency Converter is a fully functional iOS app that allows users to convert from a base currency to a target currency using real-time exchange rates. Favorite conversion pairs can be added to a watchlist, where users can stay up-to-date with the changes in the FX rates and their impact on the favorited conversion pairs. Users are also allowed to select a base currency and target currencies to analyze real-time FX rates via an interactive graph. 
 
 ### App Evaluation
 
-- **Category:** Economics, Travel
-- **Mobile:** Mobile allows for quick access to real-time currency exchange rates and up to date, reliable conversions.
-- **Story:** Allows users to stay up to date with exchange rates and have insight into the state of the economy.
+- **Category:** Travel, Finance, Utilities
+- **Mobile:** Mobile allows for quick access to real-time exchange rates and reliable currency conversions.
+- **Story:** Users have quick access to real-time exchange rates for effortless currency conversion and insights into the economy
 - **Market:** Currency enthusiasts, frequent travelers, and anyone looking to monitor their country's currency value.
-- **Habit:** Directed at those that frequently travel and are interested in monitoring their expenses.
-- **Scope:** The process of developing this app will be challenging as it will require fetching data from a credible API source and displaying data in a user friendly manner. V1 will allow users to convert from a base currency to a target currency and have access to real-time exchange rates that are displayed via a graph. V2 will implement local persistence to allow users to record frequent currency conversions for quicker access.
+- **Habit:** Directed at those who frequently travel and are interested in monitoring their expenses.
+- **Scope:** V1 allows users to convert from a base currency to a target currency and have access to real-time FX rates. Users are allowed to save/delete their favorite conversion pairs to allow for quicker access to real-time information. Users are also allowed to view/analyze FX rates via an interactive graph. V2 will allow users to further tailor the app to their preferences, ranging from personalized themes to modifiable settings.
 
 ## Product Spec
 
@@ -29,13 +29,13 @@ Currency converter is a fully functional iOS app that allows users to convert fr
 **Required Must-have Stories**
 
 * User can convert any currency of choice to their target currency
-* User can visaully see the exchange rates overtime via a graph
+* User can visually see the exchange rates via a graph
 * User can closely monitor and store their favorite currencies 
 
 **Optional Nice-to-have Stories**
 
-* User can set alerts for drastic changes in exchange rates
-* User has access to a settings feature to allow for customizable features
+* Users can set alerts to be notified of drastic changes in FX rates
+* Users will have access to a settings feature to allow for further customizable features.
 
 ### 2. Screen Archetypes
 
@@ -44,7 +44,7 @@ Currency converter is a fully functional iOS app that allows users to convert fr
 * User can add their favorite conversion pairs to their watchlist
 ##### Currency Watchlist Screen
 * User can closely monitor currencies that were previously favorited
-* User has access to quick, up-to-date information regarding real-time FX rates and its impact on their favorited conversion pairs
+* User has access to quick, up-to-date information regarding real-time FX rates and their impact on the favorited conversion pairs
 * User can update their watchlist by deleting a conversion pair
 ##### Currency Exchange Rates Screen
 * User can visually analyze currency exchange rates via a graph
